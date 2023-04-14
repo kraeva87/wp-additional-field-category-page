@@ -1,2 +1,3 @@
 # wp-additional-field-category-page
-дополнительное описание категории товара снизу
+Дополнительное описание категории товара снизу
+Text to the bottom of category
